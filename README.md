@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uslashevansmb
+- 👋 Hi, I’m pyth0nlcN3rd
 > bisexual
 > My career goal is to become a software dev
 - 👀 I’m interested in ...
