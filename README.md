@@ -1,4 +1,4 @@
-## Hello, my name is Xamintosh (max)
+## Hello, my name is Xamintosh (foxthing)
 ☺️
 Here are a few things about me:
 
@@ -7,7 +7,7 @@ Here are a few things about me:
 2. I use the `EMACS` text editor, aka the best ***FOSS*** software.
 3. I'm teaching myself `org` and `markdown`.
 4. I prefer Linux over Windows.
-5. I mainly use `Fedora Linux`.
+5. I mainly use `Debian Linux`.
 6. I need to work on my typing speed.
 
 ### Some new years goals of mine:
